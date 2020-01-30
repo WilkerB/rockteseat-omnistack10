@@ -13,7 +13,7 @@ setupWebSocket(server);
 
 // Conecta ao banco de dados
 mongoose.connect(
-  "mongodb+srv://omnistack:omnistack@cluster0-fvpm9.mongodb.net/omnistack10?retryWrites=true&w=majority",
+  "mongodb+srv://USERNAME:PASSWORD@cluster0-fvpm9.mongodb.net/DATABASE?retryWrites=true&w=majority",
   { useNewUrlParser: true, useUnifiedTopology: true }
 );
 

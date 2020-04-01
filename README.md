@@ -1,4 +1,4 @@
-# rockteseat-omnistack10
+# Rocketseat Omnistack 10
 
 Projeto desenvolvido na Semana Omnistack 10 da Rocketseat, faz uso das tecnologias Node JS, React JS, React Native e MongoDB. O Node JS é responsável pelo back-end, o React JS pelo front-end web e o React Native pelo front-end mobile.
 
